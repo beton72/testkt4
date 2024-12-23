@@ -1,0 +1,3 @@
+2024/12/23 02:52:43 Server running on port 8080...
+2024/12/23 02:52:52 Added 2 of Laptop to the cart
+2024/12/23 02:55:12 Order Details: {Items:[{Product:{ID:1 Name:Laptop Category:Electronics Price:1000} Quantity:2}] TotalAmount:2000 PaymentType:Credit Card Address:123 Main St}
